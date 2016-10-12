@@ -6,11 +6,20 @@
 		<link href="stylesheet.css" rel="stylesheet" type="text/css"/>
 	</head>
 	<body>
-		<header></header>
+		<header>
+			<h1>About Me</h1>
+		</header>
 		<hr/>
 		<main>
-			<section></section>
-			<hr/>
+			<section>
+				<ul style="float: left">
+					<li>Kevin</li>
+					<li>25</li>
+					<li>sadf;j;lasdkfj</li>
+				</ul>
+				<img src="me_cropped.jpg" style="width:300px; height:300px; float: right"/>
+			</section>
+			<hr style="clear:both;"/>
 			<section></section>
 		</main>
 	</body>
