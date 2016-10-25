@@ -20,7 +20,14 @@
 				<img src="me_cropped.jpg" style="width:300px; height:300px; float: right"/>
 			</section>
 			<hr style="clear:both;"/>
-			<section></section>
+			<section>
+				<h2>Climbing Stuff</h2>
+				<div class="flexBox">
+					<img src="cams.jpg"/>
+					<img src="petzl_arial.jpg"/>
+					<img src="quickdraws.jpg"/>
+				</div>
+			</section>
 		</main>
 	</body>
 </html>
