@@ -12,12 +12,15 @@
 		<hr/>
 		<main>
 			<section>
-				<ul>
-					<li>Kevin</li>
-					<li>25</li>
-					<li>sadf;j;lasdkfj</li>
-				</ul>
-				<img src="me_cropped.jpg" class="myPhoto"/>
+				<div class="flexBox">
+					<ul>
+						<li>Kevin</li>
+						<li>25</li>
+						<li>sadf;j;lasdkfj</li>
+					</ul>
+					<div class="spacer"></div>
+					<img src="me_cropped.jpg"/>
+				</div>
 			</section>
 			<hr/>
 			<section>

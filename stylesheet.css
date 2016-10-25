@@ -10,6 +10,10 @@ h1, h2 {
 	display: flex;
 }
 
+.spacer {
+	width:68%;
+}
+
 img {
 	width:300px;
 	height:300px;
@@ -19,14 +23,3 @@ img {
 	border: 3px black solid;
 }
 
-.myPhoto {
-	float: right;
-}
-
-ul {
-	float:left;
-}
-
-hr {
-	clear:both;
-}
