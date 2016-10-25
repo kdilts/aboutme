@@ -24,7 +24,7 @@
 				<h2>Climbing Stuff</h2>
 				<div class="flexBox">
 					<img src="cams.jpg"/>
-					<img src="petzl_arial.jpg"/>
+					<img src="petzl_arial.png"/>
 					<img src="quickdraws.jpg"/>
 				</div>
 			</section>
