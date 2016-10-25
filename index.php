@@ -17,7 +17,7 @@
 					<li>25</li>
 					<li>sadf;j;lasdkfj</li>
 				</ul>
-				<img src="me_cropped.jpg" id="myPhoto"/>
+				<img src="me_cropped.jpg" class="myPhoto"/>
 			</section>
 			<hr/>
 			<section>
