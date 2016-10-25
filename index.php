@@ -12,14 +12,14 @@
 		<hr/>
 		<main>
 			<section>
-				<ul style="float: left">
+				<ul>
 					<li>Kevin</li>
 					<li>25</li>
 					<li>sadf;j;lasdkfj</li>
 				</ul>
-				<img src="me_cropped.jpg" style="width:300px; height:300px; float: right"/>
+				<img src="me_cropped.jpg" id="myPhoto"/>
 			</section>
-			<hr style="clear:both;"/>
+			<hr/>
 			<section>
 				<h2>Climbing Stuff</h2>
 				<div class="flexBox">
